@@ -1,0 +1,80 @@
+Title: How do you use your Oura Ring?
+Author: thesearcher22
+Upvotes: 3
+URL: https://www.reddit.com/r/ouraring/comments/15c7htw/how_do_you_use_your_oura_ring/
+
+Post Content:
+I have had my ring for about two weeks. After a discussion in this sub about how HRV is unique to every person and the info presented by Oura can only be used to show when you deviate from your baseline, I am wondering how best to use this, if at all. 
+
+I think this can really help some people that may be learning from Oura that they have sleep apnea. It can also be really helpful if you are training for something and need some detailed info on your heart rate and recovery. And people have also learned how alcohol affects them in a quantified way. That's all great. 
+
+But if I don't have sleep apnea or another disorder, am not training for anything, and am not much of a drinker, not someone that will ever get pregnant, and now on top of that it's really being stressed just how little weight any of us should put on HRV numbers, I'm not sure what use this will really have to me. 
+
+I got it for HRV purposes, wanting to see mine and experiment with how I can make mine grow. Can I do that--can I exercise and meditate and slowly increase my HRV? Or is HRV really just to see when it goes lower and you learn to quit whatever bad or stressful thing you've done recently--it's only useful when the numbers go lower?
+================================================================================
+
+Comments:
+
+hophoff (7 upvotes): I love the Oura ring for the daily check on my sleep, resting heart rate, respiration and hrv. I almost don't drink alcohol, no sleep apnea or other issues. But I see how different periods in my life influence resting heart rate and hrv, and it helps me to live in such a way that the hrv increases and the resting hr lowers. The daily check helps me with this.
+
+--------------------------------------------------------------------------------
+
+j00lie (3 upvotes): I mainly got mine for fertility awareness purposes and I have it connected to Natural Cycles. I can tell when I’ve ovulated based on when my temperature rises. It’s super awesome for cycle tracking and a great tool for birth control without hormones.
+
+Aside from that, Oura is helping me balance out my activity levels. My work schedule is all over the place. Sometimes I work a LOT, sometimes I don’t work at all. It’s an extremely physical job, but on my off days, I have a tendency to rest a little too much. This constant fluctuation in activity has been soooo bad for me, resulting in bad pain when I return to work after time off. So it’s been helpful to have a baseline to strive for when I’m not working so I can be better at consistency and therefore not be in so much pain after a shift.
+
+It also helps with my sleeping habits. I don’t sleep well when I’m working because sometimes I’m clocking in at 4:30 am. Obviously it shows in my sleep scores. So it helps to know when I’ve gotten quality sleep and when I haven’t. I like the meditations in the app and I like seeing how fast I can fall asleep after doing them. Even if I don’t get much sleep, it’s nice to know I got a decent amount of deep sleep, maybe that’s just me being a dramatic baby who claims they can’t function on less than 8 hours but then Oura tells me I actually slept fine even though it was five hours haha and then I’m like oh. I guess I’m okay. Lol maybe that’s just me though.
+
+As for HRV, I’m not sure really. I don’t give it much thought but I’m sure it is worth paying attention to. I will say that since having my ring I am pleasantly surprised with my heart health. My RHR and HRV seem very good, but they do change for the worse when I’m working a lot and lack of sleep or over exerting myself gets the best of me — or the opposite, when I sleep too much and don’t do enough.
+
+Consistency is key and it very clearly shows in the numbers which is why I value the data that Oura gives me. If you got it for HRV purposes, why not see how it changes when you work out or meditate? If anything it’s just motivating.
+
+--------------------------------------------------------------------------------
+
+    Cultural_School_2280 (1 upvotes): How long did it take your natural cycles app to start including temperatures from your ring? I got mine three days ago and it keeps excluding my temps 😭
+
+--------------------------------------------------------------------------------
+
+        j00lie (2 upvotes): I’m not sure why, but it took a couple of days for it to sync quickly! It was syncing but would take an hour or more. But now it’s been like a month and it syncs pretty much automatically. So idk, give it time maybe
+
+--------------------------------------------------------------------------------
+
+            Cultural_School_2280 (1 upvotes): thank you!
+
+--------------------------------------------------------------------------------
+
+Fredricology (3 upvotes): Use Oura to see that your HRV is within your personal range.
+
+--------------------------------------------------------------------------------
+
+    thesearcher22 (1 upvotes): And so there is no attempt to raise it, only to not lower it?
+
+--------------------------------------------------------------------------------
+
+        Fredricology (1 upvotes): It's mostly genetic and hard to change. Stress (physical and mental) can lower it.
+
+HRV isn't something you can improve in the same way as VO2max. 
+
+That said, exercise and sleep can raise HRV in some individuals.
+
+Use Oura to track sleep and recovery from stress.
+
+--------------------------------------------------------------------------------
+
+            [deleted] (1 upvotes): I have trouble understanding the results because of conflicting info online. I know that a lower HRV than baseline indicates bad recovery, impending illness etc. My HRV most days an hour after I wake up is 110ms. But sometimes it’ll hit 220ish and I don’t know what that indicates. It happens often enough for it to not be a one-off or an anomaly.
+
+--------------------------------------------------------------------------------
+
+                Fredricology (1 upvotes): hrv4training.com has many good articles on hrv.
+
+--------------------------------------------------------------------------------
+
+tw2113 (1 upvotes): Sleep and general throughout the day tracking. I rely on Apple Watch for gym/exercise tracking and let it sync with Oura.
+
+--------------------------------------------------------------------------------
+
+CosmoJackson (1 upvotes): I got mine in March and at first I was obsessed with every metric. Over time I slowly stopped constantly checking and usually only briefly checked it when I woke up. Until this week when I got sick, and finally saw how out of sorts my body was and how quickly all the metrics changed. When things are consistent, I like to forget the ring is there. When I feel something is wrong, it’s a nice double check to see what I need to be more cautious of. 
+Also HR while running is dope.
+
+--------------------------------------------------------------------------------
+
